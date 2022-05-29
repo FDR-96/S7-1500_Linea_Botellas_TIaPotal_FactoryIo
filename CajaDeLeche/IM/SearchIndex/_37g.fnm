@@ -1,0 +1,19 @@
+þÿÿÿ¤###id###VisulizationRootBrowsableId###TargetIdNameText.0Text.1
+AlarmClass-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIdsDisplayName###SearchFilterIdsTitleLanguageVersion###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentSCL CodeConstant nameEvent classNetwork titleLADFBD CodeNetwork commentInstance DBAuthorFamilyUser-defined IDNameInFunctionalViewNameInDBFullNameInDBCommentDatatypeAddressValue###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreAcknowledgementModelIdEmailAddressAcknowledgedText
+ComingText	GoingTextAcknowledgementGroupTextInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
+ServerName
+PortNumberWindowsDomain	CycleUnit	CycleTimeNumber	ShortName
+LogoutTimeDataType	BackColor	GridColor
+LineColor1
+LineColor2OperatableAreaColor
+VisibilityCommonAlarmClassStationNamePartnerNameNodeNameBorderBackColorBorderColorButtonBackColorButtonBackFillStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColor	EdgeStyleFlashing
+FocusColorFontGridlineAxisGridlineColorGridlineFillColorGridlineStyleHelpTextLayer
+RulerColor
+ScaleColorTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableGridlineColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColorTimeAxisModeTimeAxisSideTagAddressPanelInfoAddressAccessModeAcquisitionTriggerModeAcquisitionCycleConfirmationTypeCoding
+ConnectionPlcNameControllerTag	JobNumber
+StartValueCaptionGraphDirection	LineColorShowScrollbarsStatusbarBackColorStatusbarFontStatusbarFontColorToolbarAlignmentToolbarBackColorTextTooltipText	BeginTimeColorEndTime	FillColor	FillStyleLabel	LineStyleLineTypeLowerLimitColor
+PointColor
+PointStyle	RangeType
+SourceTypeTimeRangeBaseTrendWindowUncertainStateColorUpdateCycleXUpdateCycleYUpperLimitColorXAxisYAxisCoarseGridColorFineGridColor
+RulerLayer
+RulerStyle	AlignmentScalingType
